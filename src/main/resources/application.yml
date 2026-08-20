@@ -8,4 +8,4 @@ spring:
 
 comment.avatar: /images/avatar.png
 server:
-  port: 8081
+  port: 8000
